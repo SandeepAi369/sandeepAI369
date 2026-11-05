@@ -1,17 +1,20 @@
-# Hi there, I'm Sandeep! 👋
-## 🚀 AI Developer | Web Creator | Cybersecurity Enthusiast
+# Hi there, I'm Sandeep CH (sandeep369) 👋
 
-I specialize in **AI integration**, **Modern Web Development**, and **Cybersecurity**. Based in Banswada, Telangana, I focus on building practical, secure, and intelligent solutions that automate everyday tasks. 
+**System Architect | Autonomous AI Developer | Cybersecurity Researcher**
 
-### 🛠️ What I'm Currently Working On
-* 🤖 **Rising Chat AI**: Developing an advanced Telegram bot powered by custom LLMs and AI agents for intelligent conversations and task automation.
-* 🌐 **Xel Studio**: Building and maintaining my personal development hub to showcase production-grade projects.
-* 🔐 **Cybersecurity**: Deep diving into secure architectures, ethical hacking, and system security using **Kali Linux**.
+I specialize in building autonomous AI workflows, engineering terminal-first system architectures, and researching Linux kernel-level security. 
 
-### 💻 Tech Stack & Arsenal
-* **AI & Automation:** Python, Custom AI Agents, Prompt Engineering, LLM Integration
-* **Web Development:** Responsive Apps, API Integrations, Modern Web Frameworks
-* **Security & OS:** Kali Linux, Vulnerability Assessment, System Security
+### 🚀 Core Projects
+* **NeuroTrap:** Open-source cybersecurity platform focusing on Linux kernel-level modification, eBPF sensors, and LSM hooks.
+* **Agent First Browse:** Autonomous AI web agent built in Python using LangGraph, MCP, and Playwright for headless browser control.
+* **SearchWala:** Private multi-engine AI search tool built in Rust with BM25 relevance ranking.
+
+### 🌍 Open Source Contributions
+* Actively auditing and contributing architectural fixes to complex open-source libraries. 
+* **Highlighted Work:** Rewrote memory management and TCP connection pooling logic in Rust network clients (like `wreq`) to fix zombie memory leaks and redirect connection churns.
+
+### 💻 Core Stack
+Rust • Python • TypeScript • Linux/eBPF • PostgreSQL
 
 ### 📊 GitHub Stats
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandeepAI369&show_icons=true&theme=radical)
