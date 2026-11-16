@@ -17,7 +17,7 @@ I specialize in building autonomous AI workflows, engineering terminal-first sys
 Rust • Python • TypeScript • Linux/eBPF • PostgreSQL
 
 ### 📊 GitHub Stats
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandeepAI369&show_icons=true&theme=radical)
+![Sandeep's GitHub stats](./github-stats.svg)
 
 ---
 *💡 Always exploring new tech, optimizing workflows, and building solutions that matter. Let's build something awesome together!*
