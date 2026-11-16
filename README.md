@@ -2,7 +2,9 @@
 
 **System Architect | Autonomous AI Developer | Cybersecurity Researcher**
 
-I specialize in building autonomous AI workflows, engineering terminal-first system architectures, and researching Linux kernel-level security. 
+I specialize in building autonomous AI workflows, engineering terminal-first system architectures, and researching Linux kernel-level security.
+
+<p align="center"><img src="./github-stats.svg" width="100%" alt="SandeepAi369 GitHub Stats" /></p>
 
 ### 🚀 Core Projects
 * **NeuroTrap:** Open-source cybersecurity platform focusing on Linux kernel-level modification, eBPF sensors, and LSM hooks.
@@ -15,9 +17,6 @@ I specialize in building autonomous AI workflows, engineering terminal-first sys
 
 ### 💻 Core Stack
 Rust • Python • TypeScript • Linux/eBPF • PostgreSQL
-
-### 📊 GitHub Stats
-![Sandeep's GitHub stats](./github-stats.svg)
 
 ---
 *💡 Always exploring new tech, optimizing workflows, and building solutions that matter. Let's build something awesome together!*
