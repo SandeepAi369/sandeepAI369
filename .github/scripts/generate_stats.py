@@ -76,7 +76,7 @@ def generate_svg(user):
     repos = user["repositories"]["nodes"]
     total_stars = sum(r["stargazerCount"] for r in repos)
     cc = user["contributionsCollection"]
-    total_commits = cc["totalCommitContributions"]
+    total_commits = cc["totalCommitContributions"] + cc.get("restrictedContributionsCount", 0)
     total_prs = cc["totalPullRequestContributions"]
     total_issues = cc["totalIssueContributions"]
     total_contribs = cc["contributionCalendar"]["totalContributions"]

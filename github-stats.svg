@@ -28,7 +28,7 @@
   <g transform="translate(20, 93)">
     <svg class="icon" x="0" y="-14" width="17" height="17" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
     <text x="25" y="0" class="label">Total Commits (1y):</text>
-    <text x="262" y="0" text-anchor="end" class="value">664</text>
+    <text x="262" y="0" text-anchor="end" class="value">1073</text>
   </g>
 
   <!-- Row 3: Total Pull Requests -->
@@ -49,14 +49,14 @@
   <g transform="translate(20, 180)">
     <svg class="icon" x="0" y="-14" width="17" height="17" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
     <text x="25" y="0" class="label">Contributed To (1y):</text>
-    <text x="262" y="0" text-anchor="end" class="value">10 repos (694)</text>
+    <text x="262" y="0" text-anchor="end" class="value">10 repos (1103)</text>
   </g>
 
   <!-- Rank Circle (Enlarged & Tightened) -->
   <g transform="translate(342, 114)">
     <circle cx="0" cy="0" r="44" stroke="#292640" stroke-width="7.5" fill="none"/>
     <circle cx="0" cy="0" r="44" stroke="#fe428e" stroke-width="7.5" fill="none"
-            stroke-dasharray="276.46" stroke-dashoffset="41.47"
+            stroke-dasharray="276.46" stroke-dashoffset="35.94"
             stroke-linecap="round" transform="rotate(-90)"/>
     <text x="0" y="6" text-anchor="middle" class="rank-text">S</text>
     <text x="0" y="24" text-anchor="middle" class="rank-sub">RANK</text>
