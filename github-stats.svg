@@ -1,67 +1,67 @@
-<svg width="740" height="204" viewBox="0 0 740 204" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SandeepAi369 GitHub Stats">
-  <!-- Solid dark Radical background with explicit inline fill & stroke for GitHub Mobile App dark/light mode compatibility -->
-  <rect x="1" y="1" width="738" height="202" rx="10" ry="10" fill="#141321" stroke="#292640" stroke-width="1.5"/>
+<svg width="840" height="300" viewBox="0 0 840 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SandeepAi369 GitHub Stats">
+  <!-- High-contrast dark Radical card background -->
+  <rect x="1.5" y="1.5" width="837" height="297" rx="14" ry="14" fill="#141321" stroke="#342f52" stroke-width="2"/>
 
   <!-- Left Section: GitHub Stats -->
-  <text x="20" y="34" fill="#fe428e" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18.5" font-weight="700">SandeepAi369&#39;s GitHub Stats</text>
+  <text x="28" y="44" fill="#fe428e" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="800">SandeepAi369&#39;s GitHub Stats</text>
 
   <!-- Row 1: Total Stars Earned -->
-  <g transform="translate(20, 64)">
-    <path transform="translate(0, -14)" fill="#f8d847" fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
-    <text x="25" y="0" fill="#f8d847" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="600">Total Stars Earned:</text>
-    <text x="262" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700">123</text>
+  <g transform="translate(28, 88)">
+    <path transform="translate(0, -17) scale(1.25)" fill="#f8d847" fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
+    <text x="30" y="0" fill="#f8d847" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17.5" font-weight="600">Total Stars Earned:</text>
+    <text x="308" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18.5" font-weight="700">123</text>
   </g>
 
-  <!-- Row 2: Total Commits (Last Year) -->
-  <g transform="translate(20, 93)">
-    <path transform="translate(0, -14)" fill="#f8d847" fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-    <text x="25" y="0" fill="#f8d847" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="600">Total Commits (1y):</text>
-    <text x="262" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700">1083</text>
+  <!-- Row 2: Total Commits (1y) -->
+  <g transform="translate(28, 132)">
+    <path transform="translate(0, -17) scale(1.25)" fill="#f8d847" fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+    <text x="30" y="0" fill="#f8d847" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17.5" font-weight="600">Total Commits (1y):</text>
+    <text x="308" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18.5" font-weight="700">1083</text>
   </g>
 
   <!-- Row 3: Total Pull Requests -->
-  <g transform="translate(20, 122)">
-    <path transform="translate(0, -14)" fill="#f8d847" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-    <text x="25" y="0" fill="#f8d847" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="600">Total PRs:</text>
-    <text x="262" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700">8</text>
+  <g transform="translate(28, 176)">
+    <path transform="translate(0, -17) scale(1.25)" fill="#f8d847" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+    <text x="30" y="0" fill="#f8d847" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17.5" font-weight="600">Total PRs:</text>
+    <text x="308" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18.5" font-weight="700">8</text>
   </g>
 
   <!-- Row 4: Total Issues -->
-  <g transform="translate(20, 151)">
-    <path transform="translate(0, -14)" fill="#f8d847" fill-rule="evenodd" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-    <text x="25" y="0" fill="#f8d847" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="600">Total Issues:</text>
-    <text x="262" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700">9</text>
+  <g transform="translate(28, 220)">
+    <path transform="translate(0, -17) scale(1.25)" fill="#f8d847" fill-rule="evenodd" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+    <text x="30" y="0" fill="#f8d847" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17.5" font-weight="600">Total Issues:</text>
+    <text x="308" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18.5" font-weight="700">9</text>
   </g>
 
-  <!-- Row 5: Contributed To / Total Contributions -->
-  <g transform="translate(20, 180)">
-    <path transform="translate(0, -14)" fill="#f8d847" fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-    <text x="25" y="0" fill="#f8d847" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14.5" font-weight="600">Contributed To (1y):</text>
-    <text x="262" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="700">10 repos (1115)</text>
+  <!-- Row 5: Contributed To (1y) -->
+  <g transform="translate(28, 264)">
+    <path transform="translate(0, -17) scale(1.25)" fill="#f8d847" fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+    <text x="30" y="0" fill="#f8d847" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17.5" font-weight="600">Contributed To (1y):</text>
+    <text x="308" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18.5" font-weight="700">10 repos (1115)</text>
   </g>
 
   <!-- Rank Circle -->
-  <g transform="translate(342, 114)">
-    <circle cx="0" cy="0" r="44" stroke="#292640" stroke-width="7.5" fill="none"/>
-    <circle cx="0" cy="0" r="44" stroke="#fe428e" stroke-width="7.5" fill="none"
-            stroke-dasharray="276.46" stroke-dashoffset="33.18"
+  <g transform="translate(394, 166)">
+    <circle cx="0" cy="0" r="54" stroke="#292640" stroke-width="9" fill="none"/>
+    <circle cx="0" cy="0" r="54" stroke="#fe428e" stroke-width="9" fill="none"
+            stroke-dasharray="339.29" stroke-dashoffset="40.72"
             stroke-linecap="round" transform="rotate(-90)"/>
-    <text x="0" y="6" text-anchor="middle" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="26" font-weight="800">S</text>
-    <text x="0" y="24" text-anchor="middle" fill="#fe428e" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.2">RANK</text>
+    <text x="0" y="7" text-anchor="middle" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="34" font-weight="800">S</text>
+    <text x="0" y="29" text-anchor="middle" fill="#fe428e" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1.5">RANK</text>
   </g>
 
   <!-- Vertical Divider -->
-  <line x1="402" y1="18" x2="402" y2="188" stroke="#292640" stroke-width="1.5"/>
+  <line x1="456" y1="24" x2="456" y2="276" stroke="#292640" stroke-width="2"/>
 
   <!-- Right Section: Top Languages -->
-  <text x="422" y="34" fill="#fe428e" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18.5" font-weight="700">Most Used Languages</text>
+  <text x="476" y="44" fill="#fe428e" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="800">Most Used Languages</text>
 
-  <rect x="422" y="54" width="298" height="10" rx="3" fill="#292640"/>
+  <rect x="476" y="66" width="336" height="14" rx="4" fill="#292640"/>
   <g>
-    <rect x="422.00" y="54" width="140.14" height="10" fill="#3572A5"/><rect x="562.14" y="54" width="75.44" height="10" fill="#dea584"/><rect x="637.58" y="54" width="69.59" height="10" fill="#3178c6"/><rect x="707.17" y="54" width="8.56" height="10" fill="#e34c26"/><rect x="715.73" y="54" width="4.50" height="10" fill="#f1e05a"/><rect x="720.23" y="54" width="0.00" height="10" fill="#663399"/>
+    <rect x="476.00" y="66" width="155.61" height="14" fill="#3572A5"/><rect x="631.61" y="66" width="83.77" height="14" fill="#dea584"/><rect x="715.38" y="66" width="77.27" height="14" fill="#3178c6"/><rect x="792.65" y="66" width="9.51" height="14" fill="#e34c26"/><rect x="802.16" y="66" width="4.92" height="14" fill="#f1e05a"/><rect x="807.08" y="66" width="4.92" height="14" fill="#663399"/>
   </g>
 
-  <g transform="translate(422, 92)"><circle cx="6" cy="-5" r="5.5" fill="#3572A5"/><text x="18" y="0" fill="#e4e2f0" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="600">Python</text><text x="142" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">47.0%</text></g><g transform="translate(574, 92)"><circle cx="6" cy="-5" r="5.5" fill="#dea584"/><text x="18" y="0" fill="#e4e2f0" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="600">Rust</text><text x="142" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">25.3%</text></g><g transform="translate(422, 123)"><circle cx="6" cy="-5" r="5.5" fill="#3178c6"/><text x="18" y="0" fill="#e4e2f0" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="600">TypeScript</text><text x="142" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">23.4%</text></g><g transform="translate(574, 123)"><circle cx="6" cy="-5" r="5.5" fill="#e34c26"/><text x="18" y="0" fill="#e4e2f0" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="600">HTML</text><text x="142" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">2.9%</text></g><g transform="translate(422, 154)"><circle cx="6" cy="-5" r="5.5" fill="#f1e05a"/><text x="18" y="0" fill="#e4e2f0" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="600">JavaScript</text><text x="142" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">0.7%</text></g><g transform="translate(574, 154)"><circle cx="6" cy="-5" r="5.5" fill="#663399"/><text x="18" y="0" fill="#e4e2f0" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13.5" font-weight="600">CSS</text><text x="142" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700">0.7%</text></g>
+  <g transform="translate(476, 116)"><circle cx="7" cy="-6" r="7" fill="#3572A5"/><text x="22" y="0" fill="#f0eefc" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16.5" font-weight="600">Python</text><text x="162" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="700">47.0%</text></g><g transform="translate(650, 116)"><circle cx="7" cy="-6" r="7" fill="#dea584"/><text x="22" y="0" fill="#f0eefc" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16.5" font-weight="600">Rust</text><text x="162" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="700">25.3%</text></g><g transform="translate(476, 160)"><circle cx="7" cy="-6" r="7" fill="#3178c6"/><text x="22" y="0" fill="#f0eefc" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16.5" font-weight="600">TypeScript</text><text x="162" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="700">23.4%</text></g><g transform="translate(650, 160)"><circle cx="7" cy="-6" r="7" fill="#e34c26"/><text x="22" y="0" fill="#f0eefc" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16.5" font-weight="600">HTML</text><text x="162" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="700">2.9%</text></g><g transform="translate(476, 204)"><circle cx="7" cy="-6" r="7" fill="#f1e05a"/><text x="22" y="0" fill="#f0eefc" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16.5" font-weight="600">JavaScript</text><text x="162" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="700">0.7%</text></g><g transform="translate(650, 204)"><circle cx="7" cy="-6" r="7" fill="#663399"/><text x="22" y="0" fill="#f0eefc" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16.5" font-weight="600">CSS</text><text x="162" y="0" text-anchor="end" fill="#a9fef7" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="700">0.7%</text></g>
 
-  <text x="422" y="184" fill="#8b86a8" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="500">Synced: 18 Nov 2026, 04:08 PM IST (UTC+05:30)</text>
+  <text x="476" y="264" fill="#9e98bd" font-family="'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600">Synced: 18 Nov 2026, 05:02 PM IST (UTC+05:30)</text>
 </svg>

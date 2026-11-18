@@ -4,7 +4,9 @@
 
 I specialize in building autonomous AI workflows, engineering terminal-first system architectures, and researching Linux kernel-level security.
 
-![SandeepAi369 GitHub Stats](./github-stats.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SandeepAi369/sandeepAI369/main/github-stats.svg" width="100%" alt="SandeepAi369 GitHub Stats" />
+</p>
 
 ### 🚀 Core Projects
 * **NeuroTrap:** Open-source cybersecurity platform focusing on Linux kernel-level modification, eBPF sensors, and LSM hooks.
