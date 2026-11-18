@@ -155,39 +155,39 @@ def generate_svg(user):
   <!-- Left Section: GitHub Stats (18px left outer margin, values right-aligned at global x=342) -->
   <text x="18" y="38" fill="#fe428e" font-family="{FONT}" font-size="20" font-weight="800">SandeepAi369&#39;s GitHub Stats</text>
 
-  <!-- Row 1: Total Stars Earned -->
+  <!-- Row 1: Total Stars Earned (Gold #f8d847) -->
   <g transform="translate(18, 76)">
     <path transform="translate(0, -15) scale(1.15)" fill="#f8d847" fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
     <text x="26" y="0" fill="#f8d847" font-family="{FONT}" font-size="16" font-weight="600">Total Stars Earned:</text>
-    <text x="324" y="0" text-anchor="end" fill="#a9fef7" font-family="{FONT}" font-size="16.5" font-weight="700">{total_stars}</text>
+    <text x="324" y="0" text-anchor="end" fill="#fef08a" font-family="{FONT}" font-size="16.5" font-weight="700">{total_stars}</text>
   </g>
 
-  <!-- Row 2: Total Commits (1y) -->
+  <!-- Row 2: Total Commits (1y) (Cyan #38bdf8) -->
   <g transform="translate(18, 111)">
-    <path transform="translate(0, -15) scale(1.15)" fill="#f8d847" fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-    <text x="26" y="0" fill="#f8d847" font-family="{FONT}" font-size="16" font-weight="600">Total Commits (1y):</text>
-    <text x="324" y="0" text-anchor="end" fill="#a9fef7" font-family="{FONT}" font-size="16.5" font-weight="700">{total_commits}</text>
+    <path transform="translate(0, -15) scale(1.15)" fill="#38bdf8" fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+    <text x="26" y="0" fill="#38bdf8" font-family="{FONT}" font-size="16" font-weight="600">Total Commits (1y):</text>
+    <text x="324" y="0" text-anchor="end" fill="#bae6fd" font-family="{FONT}" font-size="16.5" font-weight="700">{total_commits}</text>
   </g>
 
-  <!-- Row 3: Total Pull Requests -->
+  <!-- Row 3: Total Pull Requests (Purple #c084fc) -->
   <g transform="translate(18, 146)">
-    <path transform="translate(0, -15) scale(1.15)" fill="#f8d847" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-    <text x="26" y="0" fill="#f8d847" font-family="{FONT}" font-size="16" font-weight="600">Total PRs:</text>
-    <text x="324" y="0" text-anchor="end" fill="#a9fef7" font-family="{FONT}" font-size="16.5" font-weight="700">{total_prs}</text>
+    <path transform="translate(0, -15) scale(1.15)" fill="#c084fc" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+    <text x="26" y="0" fill="#c084fc" font-family="{FONT}" font-size="16" font-weight="600">Total PRs:</text>
+    <text x="324" y="0" text-anchor="end" fill="#e9d5ff" font-family="{FONT}" font-size="16.5" font-weight="700">{total_prs}</text>
   </g>
 
-  <!-- Row 4: Total Issues -->
+  <!-- Row 4: Total Issues (Coral/Orange #fb923c) -->
   <g transform="translate(18, 181)">
-    <path transform="translate(0, -15) scale(1.15)" fill="#f8d847" fill-rule="evenodd" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-    <text x="26" y="0" fill="#f8d847" font-family="{FONT}" font-size="16" font-weight="600">Total Issues:</text>
-    <text x="324" y="0" text-anchor="end" fill="#a9fef7" font-family="{FONT}" font-size="16.5" font-weight="700">{total_issues}</text>
+    <path transform="translate(0, -15) scale(1.15)" fill="#fb923c" fill-rule="evenodd" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+    <text x="26" y="0" fill="#fb923c" font-family="{FONT}" font-size="16" font-weight="600">Total Issues:</text>
+    <text x="324" y="0" text-anchor="end" fill="#fed7aa" font-family="{FONT}" font-size="16.5" font-weight="700">{total_issues}</text>
   </g>
 
-  <!-- Row 5: Contributed To (1y) -->
+  <!-- Row 5: Contributed To (1y) (Emerald Green #34d399) -->
   <g transform="translate(18, 216)">
-    <path transform="translate(0, -15) scale(1.15)" fill="#f8d847" fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-    <text x="26" y="0" fill="#f8d847" font-family="{FONT}" font-size="16" font-weight="600">Contributed To (1y):</text>
-    <text x="324" y="0" text-anchor="end" fill="#a9fef7" font-family="{FONT}" font-size="16.5" font-weight="700">{contributed_repos} repos ({total_contribs})</text>
+    <path transform="translate(0, -15) scale(1.15)" fill="#34d399" fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+    <text x="26" y="0" fill="#34d399" font-family="{FONT}" font-size="16" font-weight="600">Contributed To (1y):</text>
+    <text x="324" y="0" text-anchor="end" fill="#a7f3d0" font-family="{FONT}" font-size="16.5" font-weight="700">{contributed_repos} repos ({total_contribs})</text>
   </g>
 
   <!-- Rank Circle (center x=416, y=140; outer bounds x=364..468, y=88..192) -->
